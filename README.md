@@ -9,4 +9,4 @@ A simple data analysis notebook using Python and Pandas to explore how Netflix h
 - 📁 Dataset: [Netflix Titles on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ### 🧪 Notebook
-[View Analysis Notebook](netflix-trends-analysis.ipynb)
+[View Analysis Notebook](https://github.com/RAJU3519/netflix-trends-analysis/blob/main/netflix_trends_analysis.ipynb)
